@@ -1,12 +1,7 @@
 {
-    "name": "Kürek Token",
+    "name": "Kurek Token",
     "symbol": "KUREK",
     "description": "My first token on Solana",
-    "image": "https://raw.githubusercontent.com/Kurek-Token/kurektoken/refs/heads/main/kurek.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
-  }
+    "image": "https://raw.githubusercontent.com/Kurek-Token/kurektoken/refs/heads/main/kurek.png"
+    
+}
