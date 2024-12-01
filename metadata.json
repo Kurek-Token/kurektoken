@@ -1,7 +1,6 @@
 {
-    "name": "Kurek Token",
+    "name": "Kürek Token",
     "symbol": "KUREK",
     "description": "My first token on Solana",
     "image": "https://raw.githubusercontent.com/Kurek-Token/kurektoken/refs/heads/main/kurek.png"
-    
 }
